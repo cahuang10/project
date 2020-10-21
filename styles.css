@@ -1,0 +1,30 @@
+.body {background: url("https://www.presby.edu/wp-content/uploads/2018/08/hp-below-news-2100x625.jpg");}
+.co {
+    font-size: 200px;
+    color: #42f5ef;
+
+}
+
+.step1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+}
+
+.co {
+    background: url("https://www.presby.edu/wp-content/uploads/2018/08/hp-below-news-2100x625.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    border-style: solid;
+    border-color: blue;
+    border-width: 4px;
+
+}
+
+
+.pae {
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+}
